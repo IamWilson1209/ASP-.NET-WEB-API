@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\controllers\\dailyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\controllers\\dailyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\dtos\\dailyexpensepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\dtos\\dailyexpensepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\models\\dailyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\models\\dailyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DailyExpense.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Models\\DailyExpense.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Models\\DailyExpense.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Models\\DailyExpense.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Models\\DailyExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:33:58.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyExpensePOSTDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Dtos\\DailyExpensePOSTDto.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Dtos\\DailyExpensePOSTDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Dtos\\DailyExpensePOSTDto.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Dtos\\DailyExpensePOSTDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:58:22.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DailyExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:27:23.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

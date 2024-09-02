@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\dtos\\dailyexpenseputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\dtos\\dailyexpenseputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|c:\\users\\user\\desktop\\c# \u5C08\u6848\\shuanwebapi_240718\\shuanwebapi\\controllers\\dailyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857680F6-1792-4EBC-A17C-2A19838267BC}|ShuanWebAPI\\ShuanWebAPI.csproj|solutionrelative:shuanwebapi\\controllers\\dailyexpensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:11:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:10:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DailyExpensePUTDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Dtos\\DailyExpensePUTDto.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Dtos\\DailyExpensePUTDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Dtos\\DailyExpensePUTDto.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Dtos\\DailyExpensePUTDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:10:43.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DailyExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "RelativeDocumentMoniker": "ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C# \u5C08\u6848\\ShuanWebAPI_240718\\ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "RelativeToolTip": "ShuanWebAPI\\Controllers\\DailyExpenseController.cs",
+              "ViewState": "AQIAAKsBAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:01:41.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
